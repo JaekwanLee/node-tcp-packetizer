@@ -1,5 +1,6 @@
 TCP Packetizer
 =========
+This module is a helper to accumulate incoming bytes message from tcp sockets and return a packet by packet.
 
 Install
 ---
