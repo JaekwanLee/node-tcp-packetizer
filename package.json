@@ -1,0 +1,24 @@
+{
+  "name": "tcp-packetizer",
+  "version": "0.0.5",
+  "description": "Helper module to packetize incoming random bytes in tcp server for nodejs.",
+  "main": "packetizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JaekwanLee/node-tcp-packetizer.git"
+  },
+  "keywords": [
+    "packetizer",
+    "tcp",
+    "packet"
+  ],
+  "author": "Jaekwan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaekwanLee/node-tcp-packetizer/issues"
+  },
+  "homepage": "https://github.com/JaekwanLee/node-tcp-packetizer#readme"
+}
