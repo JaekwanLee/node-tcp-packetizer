@@ -14,6 +14,7 @@ There are typically two patterns it supports as fixed size packet or header & pa
 
 - Fixed Size packet
 ```
+const packetizer = require('net');
 const packetizer = require('tcp-packetizer');
 
 const server = net.createServer((socket) => {
@@ -42,6 +43,7 @@ const server = net.createServer((socket) => {
 
 - Header and Payload option
 ```
+const packetizer = require('net');
 const packetizer = require('tcp-packetizer');
 
 const server = net.createServer((socket) => {
