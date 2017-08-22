@@ -10,7 +10,7 @@ npm install -s tcp-packetizer
 
 Usage
 ---
-this tcp-packetizer module helps to but tcp streaming message. There are two patterns it supports as fixed size packet or header & payload.
+There are typically two patterns it supports as fixed size packet or header & payload.
 
 - Fixed Size packet
 ```
